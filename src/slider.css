@@ -1,0 +1,21 @@
+/* SliderCustomStyles.css */
+/* Change the color of the entire slider component */
+.rc-slider {
+  width: 80%; /* Adjust the width as needed */
+  margin: 20px auto; /* Adjust the margin as needed */
+}
+
+/* Change the color of the slider track */
+.rc-slider-track {
+  background-color: #6dacff; /* Change to your desired color */
+}
+
+/* Change the color of the slider handle */
+.rc-slider-handle {
+  background-color: #6dacff; /* Change to your desired color */
+}
+
+/* Change the color of the marks (if you have them) */
+.rc-slider-mark-text {
+  color: #6dacff; /* Change to your desired color */
+}
